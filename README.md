@@ -1,6 +1,6 @@
 # Deploy reactpy with fastapi backend to GCP
 
-It uses gunicorn as server with uvicorn as workers.
+It uses gunicorn as server with uvicorn as workers. See the explanation from [fastapi on gunicorn](https://fastapi.tiangolo.com/deployment/server-workers/#gunicorn-with-uvicorn-workers).
 
 See app.yaml
 
