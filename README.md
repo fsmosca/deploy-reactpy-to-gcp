@@ -12,7 +12,7 @@ You can deploy this in GCP, similar to the one with flask backend [rflask](https
 
 Deploy result.
 
-![image](https://github.com/fsmosca/gcp-reactpy-fastapi/assets/22366935/8e79191b-0196-4570-abbe-da11dc8d8588)
+"Hello, world from reactpy on fastapi backend."
 
 ## Files
 
